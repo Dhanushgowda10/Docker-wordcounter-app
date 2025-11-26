@@ -147,6 +147,13 @@ MIT License
 
 Feel free to reach out if you want enhancements or docker-compose support!
 
-```
+---
 
-```
+## Author
+
+**Dhanush Gowda**  
+GitHub: [Dhanushgowda10](https://github.com/Dhanushgowda10)
+
+---
+
+*If you have any questions or suggestions, feel free to open an issue or reach out!*
